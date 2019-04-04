@@ -53,7 +53,7 @@ Yearly emission schedule can be found here: {INSERT LINK}
 
 ## Dev Notes:
 
-- Used node_models as local instance and added to .gitignore
+- Used node_modules as local instance and added to .gitignore
 
 - Library's used are from Openzeppelin 
 
