@@ -13,40 +13,40 @@ The token specifics are as follows:
 
 ## Definitions: 
 
--Treasury Fund: This is a token fund that is used to compensate the founders, advisors, and serves as a long-term growth fund for the development of the Png Network. 
+- Treasury Fund: This is a token fund that is used to compensate the founders, advisors, and serves as a long-term growth fund for the development of the Png Network. 
 
--Incentive Distribution: Token rewards ussed to users who signup to the Pngme mobile application. 
+- Incentive Distribution: Token rewards ussed to users who signup to the Pngme mobile application. 
 
--Savings Distribution: Token rewards issued to users on the network who stake tokens in the Pngme mobile application savings account.
+- Savings Distribution: Token rewards issued to users on the network who stake tokens in the Pngme mobile application savings account.
 
 
 ## Year 1 Supply:  				825,000,000
 
-## Detailed breakdown
+### Detailed breakdown
  
-## Treasury Fund 				100,000,000 
-## Incentive Distribution	 	170,000,000 
-## Savings Distribution			130,000,000 
-## Token Sales	 				425,000,000 
+Treasury Fund 					100,000,000 
+Incentive Distribution	 		170,000,000 
+Savings Distribution			130,000,000 
+Token Sales	 					425,000,000 
 
 
 
-## Treasury Fund breakdown
+### Treasury Fund breakdown
 
-## Founders 					50,000,000
-## Advisors					 	 5,000,000
-## Development (12mth lock)		45,000,000 
+Founders 						50,000,000
+Advisors						 5,000,000
+Development (12mth lock)		45,000,000 
 
 
 
 ## Year 2 - 50 Emission
 
-## Emission Schedule Y2 - 50 breakdown
+### Emission Schedule Y2 - 50 breakdown
 
-## Treasury fund 				18,362,909
-## Incentive Distribution		---,---,--- 
-## Savings Distribution			348,895,276 
-## Token Sales	 				---,---,---  
+Treasury fund 					18,362,909
+Incentive Distribution			---,---,--- 
+Savings Distribution			348,895,276 
+Token Sales	 					---,---,---  
 
 
 Yearly emission schedule can be found here: {INSERT LINK}
