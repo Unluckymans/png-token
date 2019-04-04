@@ -1,6 +1,6 @@
 # png-token
 
-## Smart Contract Code for Png Token (PNG)
+## Smart Contract Code for Png Token (PNG) (Not Released)
 
 Solidity code for the Png Token smart contract
 
@@ -20,22 +20,22 @@ The token specifics are as follows:
 - Savings Distribution: Token rewards issued to users on the network who stake tokens in the Pngme mobile application savings account.
 
 
-## Year 1 Supply:  				825,000,000
+## Year 1 Supply:  					825,000,000
 
 ### Detailed breakdown
  
-Treasury Fund 					100,000,000 
-Incentive Distribution	 		170,000,000 
-Savings Distribution			130,000,000 
-Token Sales	 					425,000,000 
+- Treasury Fund 					100,000,000 
+- Incentive Distribution	 		170,000,000 
+- Savings Distribution				130,000,000 
+- Token Sales	 					425,000,000 
 
 
 
 ### Treasury Fund breakdown
 
-Founders 						50,000,000
-Advisors						 5,000,000
-Development (12mth lock)		45,000,000 
+- Founders 							50,000,000
+- Advisors							 5,000,000
+- Development (12mth lock)			45,000,000 
 
 
 
@@ -43,10 +43,10 @@ Development (12mth lock)		45,000,000
 
 ### Emission Schedule Y2 - 50 breakdown
 
-Treasury fund 					18,362,909
-Incentive Distribution			---,---,--- 
-Savings Distribution			348,895,276 
-Token Sales	 					---,---,---  
+- Treasury fund 					 18,362,909
+- Incentive Distribution			---,---,--- 
+- Savings Distribution				348,895,276 
+- Token Sales	 					---,---,---  
 
 
 Yearly emission schedule can be found here: {INSERT LINK}
