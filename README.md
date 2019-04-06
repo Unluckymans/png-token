@@ -15,7 +15,7 @@
 - Burn test https://etherscan.io/tx/0xe2dc7a3c5065b99f0cccc0351a207d3a1526f8ee02a6472f83b659bb2f1653e4
 
 
-##Solidity code for the Png Token smart contract
+## Solidity code for the Png Token smart contract
 
 This code is for a capped, mintable, burnable, ERC-20 token.
 
