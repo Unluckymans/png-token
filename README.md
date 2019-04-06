@@ -1,8 +1,21 @@
 # png-token
 
-## Smart Contract Code for Png Token (PNG) (Not Released)
+## Smart Contract Code for Png Token (PNG)
 
-Solidity code for the Png Token smart contract
+
+### Deployed test smart contract on Ethereum mainnet for PngTokenTest (PNGT):
+
+- Contract deployment https://etherscan.io/address/0x6642a1ce370944a1a69d1d8eb4253b161b22e9bd
+- Token tracker https://etherscan.io/token/0x6642a1ce370944a1a69d1d8eb4253b161b22e9bd
+- Contract source code https://etherscan.io/address/0x6642a1ce370944a1a69d1d8eb4253b161b22e9bd#code
+
+### Smart contract function tests:
+
+- Mint test https://etherscan.io/tx/0xbf04b516718d0799d24b11395cfe36a1f33bd435f976365328f331da25a9ed4c
+- Burn test https://etherscan.io/tx/0xe2dc7a3c5065b99f0cccc0351a207d3a1526f8ee02a6472f83b659bb2f1653e4
+
+
+##Solidity code for the Png Token smart contract
 
 This code is for a capped, mintable, burnable, ERC-20 token.
 
