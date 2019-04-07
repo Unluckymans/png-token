@@ -13,7 +13,10 @@
 
 - Mint test https://etherscan.io/tx/0xbf04b516718d0799d24b11395cfe36a1f33bd435f976365328f331da25a9ed4c
 - Burn test https://etherscan.io/tx/0xe2dc7a3c5065b99f0cccc0351a207d3a1526f8ee02a6472f83b659bb2f1653e4
-
+- Add Minter permission to another owner https://etherscan.io/tx/0xb0dd6869c6abedbb3f02d15436a1217e54187864582e7376f0613853c938a982
+- 2nd owner mint test https://etherscan.io/tx/0xbf04b516718d0799d24b11395cfe36a1f33bd435f976365328f331da25a9ed4c
+- Token unlock test https://etherscan.io/tx/0xcbcc9f7b1ff904b8b5ce7604d1cd541ea5f588e6244300950b7eb2eb625b2559
+- Mint more than cap test https://etherscan.io/tx/0xe2b4cdc0f9abcfdbbc78c39c0fe958004a0c35b59a87b8044ba0c0344163cb49
 
 ## Solidity code for the Png Token smart contract
 
@@ -28,7 +31,7 @@ The token specifics are as follows:
 
 - Treasury Fund: This is a token fund that is used to compensate the founders, advisors, and serves as a long-term growth fund for the development of the Png Network. 
 
-- Incentive Distribution: Token rewards ussed to users who signup to the Pngme mobile application. 
+- Incentive Distribution: Token rewards used to users who signup to the Pngme mobile application. 
 
 - Savings Distribution: Token rewards issued to users on the network who stake tokens in the Pngme mobile application savings account.
 
